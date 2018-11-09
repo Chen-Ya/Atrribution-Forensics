@@ -10,6 +10,11 @@
 使用的工具：	科来网络分析系统11技术交流版
 答1：
 汤子贤：攻击发生时间：2018/04/11 04:14:26  持续时间：暂不可知；IP：10.10.10.209，MAC:00:30:67:F1:2D:63  (BIOSTAR Microtech Int'l Corp.),登陆账户：Batiste-PC
+原方圆：攻击事件发生的时间是：2018.4.10 20:14:26（UTC），结束时间为2918 4.10 23:27:32，持续时间为3小时13分。
+  受攻击方涉及的系统信息：
+    IP地址：10.10.10.209
+    MAC地址： 00 30 67 f1 2d 63 08 00 45 00
+    用户登录账户：winford.batiste
 
 
 
@@ -17,6 +22,10 @@
 使用的工具：科来网络分析系统11技术交流版
 答2：
 汤子贤：windows系统
+原方圆：操作系统：windows
+  服务：
+  漏洞：CVE-2017-11882 and CVE-2017-8570
+
 
 
 
@@ -24,12 +33,18 @@
 使用的工具：科来网络分析系统11技术交流版
 答3：
 陈亚：109个TCP会话，应用层协议数19个：HTTP、NBSSN、LDAP、Kerberos、NBNS、NETBIOS、DNS(DNS Query、DNS Response)、SSL、BOOTP、MS_RPC、HTTPS、SMB、SMB2、NTP、CLDAP、NBNS、LLMNR。
+原方圆：包含109个tcp会话；应用层协议：HTTP、NBSSN、LDAP、Kerberos、NetBIOS、HTTPS、MS-RPC、NVNS、DNS、BOOTP、CLDAP、LLMNR、NTP
 
 
 问题4：可以找到攻击主机的哪些信息？（如：IP地址、MAC地址、地理位置等）	5分
 使用的工具：科来网络分析系统11技术交流版
 答4：
 汤子贤：IP：95.110.193.132 MAC:00:09:7B:FE:C2:8E  地理位置：意大利
+原方圆：
+  攻击主机的信息：
+    IP地址：95.110.193.132
+    MAC地址：00:09:7b:fe:c2:8e
+    地理位置：意大利
 
 
 
