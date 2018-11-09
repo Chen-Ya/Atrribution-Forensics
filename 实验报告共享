@@ -37,7 +37,7 @@
 答3：
 陈亚：109个TCP会话，应用层协议数19个：HTTP、NBSSN、LDAP、Kerberos、NBNS、NETBIOS、DNS(DNS Query、DNS Response)、SSL、BOOTP、MS_RPC、HTTPS、SMB、SMB2、NTP、CLDAP、NBNS、LLMNR。
 原方圆：包含109个tcp会话；应用层协议：HTTP、NBSSN、LDAP、Kerberos、NetBIOS、HTTPS、MS-RPC、NVNS、DNS、BOOTP、CLDAP、LLMNR、NTP
-张亚文:109个TCP会话，应用层协议18个（不知道是不是8.0版本的问题O_O)
+张亚文:109个TCP会话，应用层协议:HTTP、CIFS、LDAP、Kerberos、HTTPS、NetBIOS、DNS、BOOTP、LLMNR、NTP、IGRP
 
 问题4：可以找到攻击主机的哪些信息？（如：IP地址、MAC地址、地理位置等）	5分
 使用的工具：科来网络分析系统11技术交流版
